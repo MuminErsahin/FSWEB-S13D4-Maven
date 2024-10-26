@@ -10,7 +10,7 @@ public enum Weapon {
     private final int damage;
     private final double attackSpeed;
 
-
+//bitti
     Weapon(int damage, double attackSpeed) {
         this.damage = damage;
         this.attackSpeed = attackSpeed;

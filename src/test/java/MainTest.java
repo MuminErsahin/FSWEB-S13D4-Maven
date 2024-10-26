@@ -21,7 +21,7 @@ public class MainTest {
 
     @BeforeEach
     void setUp() {
-        point = new Point(6, 5);
+        point = new Point(6,5);
         player = new Player("John", 100, Weapon.SWORD);
     }
 
